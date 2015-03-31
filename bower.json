@@ -1,0 +1,25 @@
+{
+  "name": "angular-modular-seed",
+  "version": "0.0.0",
+  "authors": [
+    "DontRelaX <dontrelaxman@gmail.com>"
+  ],
+  "description": "Modular seed for angular project",
+  "keywords": [
+    "angular",
+    "seed",
+    "scalable",
+    "angular-seed"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0"
+  }
+}

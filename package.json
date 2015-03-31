@@ -1,0 +1,24 @@
+{
+  "author": "DontRelaX <dontrelaxman@gmail.com>",
+  "name": "angular-modular-seed",
+  "description": "Modular seed for angular project",
+  "version": "0.0.0",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.10 || 0.8 || 0.9"
+  },
+  "dependencies": {
+    "javascript-brunch": "~1.7.1",
+    "css-brunch": ">= 1.0 < 1.6",
+    "clean-css-brunch": ">= 1.0 < 1.6",
+    "ng-annotate-uglify-js-brunch": "~1.7.4",
+    "less-brunch": "~1.7.2",
+    "sass-brunch": "git+http://git@github.com:brunch/sass-brunch.git",
+    "assetsmanager-brunch": "~1.8.1",
+    "jshint-brunch": "~1.7.0"
+  }
+}
