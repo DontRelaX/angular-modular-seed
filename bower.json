@@ -1,10 +1,11 @@
 {
   "name": "angular-modular-seed",
-  "version": "0.0.0",
+  "version": "1.4.0",
   "authors": [
     "DontRelaX <dontrelaxman@gmail.com>"
   ],
   "description": "Modular seed for angular project",
+  "homepage": "https://github.com/DontRelaX/angular-modular-seed",
   "keywords": [
     "angular",
     "seed",

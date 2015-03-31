@@ -2,8 +2,8 @@
   "author": "DontRelaX <dontrelaxman@gmail.com>",
   "name": "angular-modular-seed",
   "description": "Modular seed for angular project",
-  "version": "0.0.0",
-  "homepage": "",
+  "version": "1.4.0",
+  "homepage": "https://github.com/DontRelaX/angular-modular-seed",
   "repository": {
     "type": "git",
     "url": ""

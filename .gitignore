@@ -2,3 +2,6 @@ node_modules
 bower_components
 assets
 npm-debug.log
+angular-modular-seed.iml
+angular-modular-seed.ipr
+angular-modular-seed.iws
